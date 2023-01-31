@@ -1,0 +1,8 @@
+Header header
+float64 Latitude
+float64 Longitude
+float64 Altitude
+float64 UTM_Easting
+float64 UTM_Northing
+int64 Zone
+string Letter
